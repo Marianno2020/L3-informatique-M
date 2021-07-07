@@ -1,1 +1,1 @@
-# L3-informatique-M
+# L3
